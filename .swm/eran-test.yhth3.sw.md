@@ -4,7 +4,7 @@ name: eran test
 file_version: 1.0.2
 app_version: 0.7.6-0
 file_blobs:
-  testFile.md: 780c7f142f654310ec19ddf607654d3cbd9ce8ce
+  testFile.md: 22cb60a4ddfd027f81ef40952731ce5674f09257
 ---
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
@@ -13,7 +13,7 @@ file_blobs:
 ⬜ 10     
 ⬜ 11     WOW
 ⬜ 12     
-🟩 13     So cool
+🟩 13     so Cool
 🟩 14     testing
 🟩 15     in a repo
 ⬜ 16     
