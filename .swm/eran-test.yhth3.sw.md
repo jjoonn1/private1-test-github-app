@@ -6,6 +6,7 @@ app_version: 0.7.6-0
 file_blobs:
   testFile.md: 22cb60a4ddfd027f81ef40952731ce5674f09257
   a.py: 933f4799242127469ee479dae991c7996e34857a
+  b.py: ddfc41727956ada916409ed652e1f604876f2ee0
 ---
 
 example
@@ -40,6 +41,22 @@ second line for python file
 ⬜ 5      	print("This is the third line")
 ⬜ 6      
 ⬜ 7      
+```
+
+<br/>
+
+this is the else part
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 b.py
+```python
+⬜ 4      	print("This is the function foo")
+⬜ 5      	if a > 5:
+⬜ 6      		print("a is bigger")
+🟩 7      	else:
+🟩 8      		print("a is smaller")
+⬜ 9      
+⬜ 10     
+⬜ 11     
 ```
 
 <br/>
