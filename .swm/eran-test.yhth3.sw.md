@@ -5,8 +5,8 @@ file_version: 1.0.2
 app_version: 0.7.6-0
 file_blobs:
   testFile.md: 22cb60a4ddfd027f81ef40952731ce5674f09257
-  a.py: 933f4799242127469ee479dae991c7996e34857a
-  b.py: ddfc41727956ada916409ed652e1f604876f2ee0
+  a.py: fd20d8ea6da461e9bb4799e8b856bb217029a3d3
+  b.py: 96ebace6297871e2013c8e6d5b835ee48c56a0dc
 ---
 
 example
@@ -37,7 +37,7 @@ second line for python file
 ⬜ 1      # exmaple of main function
 ⬜ 2      def main():
 ⬜ 3      	print("This is first line")
-🟩 4      	print("This is the Second Line")
+🟩 4      	print("This is The Second Line")
 ⬜ 5      	print("This is the third line")
 ⬜ 6      
 ⬜ 7      
@@ -53,7 +53,7 @@ this is the else part
 ⬜ 5      	if a > 5:
 ⬜ 6      		print("a is bigger")
 🟩 7      	else:
-🟩 8      		print("a is smaller")
+🟩 8      		print("a is Smaller")
 ⬜ 9      
 ⬜ 10     
 ⬜ 11     
