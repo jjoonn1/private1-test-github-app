@@ -4,7 +4,7 @@ name: eran test2
 file_version: 1.0.2
 app_version: 0.7.6-0
 file_blobs:
-  b.py: 96ebace6297871e2013c8e6d5b835ee48c56a0dc
+  b.py: 99969579727170791e4a98c8623aec3a1a0b2a9b
 ---
 
 this is the if part
@@ -15,9 +15,9 @@ this is the if part
 ⬜ 3      def foo(a):
 ⬜ 4      	print("This is the function foo")
 🟩 5      	if a > 5:
-🟩 6      		print("a is bigger")
+🟩 6      		print("a is biggeR")
 ⬜ 7      	else:
-⬜ 8      		print("a is smaller")
+⬜ 8      		print("a is SmalleR")
 ⬜ 9      
 ```
 
