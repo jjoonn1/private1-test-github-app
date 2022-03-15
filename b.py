@@ -3,9 +3,9 @@
 def foo(a):
 	print("This is the function foo")
 	if a > 5:
-		print("a is bigger")
+		print("a is biggeR")
 	else:
-		print("a is Smaller")
+		print("a is SmalleR")
 
 
 
