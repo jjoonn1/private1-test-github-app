@@ -5,8 +5,10 @@ file_version: 1.0.2
 app_version: 0.7.6-0
 file_blobs:
   testFile.md: 22cb60a4ddfd027f81ef40952731ce5674f09257
+  a.py: ba6754497d08336031eb39f1213fe714ac6c4294
 ---
 
+example
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 testFile.md
 ```markdown
@@ -19,6 +21,25 @@ file_blobs:
 ⬜ 16     
 ⬜ 17     who
 ⬜ 18     
+```
+
+<br/>
+
+this is an example of python file
+
+<br/>
+
+second line for python file
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 a.py
+```python
+⬜ 1      # exmaple of main function
+⬜ 2      def main():
+⬜ 3      	print("This is first line")
+🟩 4      	print("This is the second line")
+⬜ 5      	print("This is the third line")
+⬜ 6      
+⬜ 7      
 ```
 
 <br/>
