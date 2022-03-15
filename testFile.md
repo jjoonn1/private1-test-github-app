@@ -10,7 +10,7 @@ to test
 
 WOW
 
-So cool
+So Cool
 testing
 in a repo
 
