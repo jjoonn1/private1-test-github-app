@@ -5,7 +5,7 @@ file_version: 1.0.2
 app_version: 0.7.6-0
 file_blobs:
   testFile.md: 22cb60a4ddfd027f81ef40952731ce5674f09257
-  a.py: ba6754497d08336031eb39f1213fe714ac6c4294
+  a.py: 50728ccda24f1344877885200bf24976c4a81983
 ---
 
 example
@@ -36,7 +36,7 @@ second line for python file
 ⬜ 1      # exmaple of main function
 ⬜ 2      def main():
 ⬜ 3      	print("This is first line")
-🟩 4      	print("This is the second line")
+🟩 4      	print("This is the Second line")
 ⬜ 5      	print("This is the third line")
 ⬜ 6      
 ⬜ 7      
