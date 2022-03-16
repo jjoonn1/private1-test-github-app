@@ -5,6 +5,7 @@ file_version: 1.0.2
 app_version: 0.7.6-0
 file_blobs:
   b.py: 99969579727170791e4a98c8623aec3a1a0b2a9b
+  testFile.md: 22cb60a4ddfd027f81ef40952731ce5674f09257
 ---
 
 this is the if part
@@ -19,6 +20,27 @@ this is the if part
 ⬜ 7      	else:
 ⬜ 8      		print("a is SmalleR")
 ⬜ 9      
+```
+
+<br/>
+
+this is another snippet
+
+<br/>
+
+another snippet
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 testFile.md
+```markdown
+⬜ 10     
+⬜ 11     WOW
+⬜ 12     
+🟩 13     so Cool
+🟩 14     testing
+🟩 15     in a repo
+⬜ 16     
+⬜ 17     who
+⬜ 18     
 ```
 
 <br/>
