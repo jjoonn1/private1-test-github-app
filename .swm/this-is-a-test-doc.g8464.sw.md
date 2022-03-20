@@ -2,9 +2,9 @@
 id: g8464
 name: This is a test doc
 file_version: 1.0.2
-app_version: 0.7.6-1
+app_version: 0.7.4-0
 file_blobs:
-  testFile.md: 659425b5f956a1f7704759a9d9d43c2916a3a7e3
+  testFile.md: 780c7f142f654310ec19ddf607654d3cbd9ce8ce
 ---
 
 WoW
@@ -20,7 +20,7 @@ This is snippet number one
 ⬜ 6      
 🟩 7      we use them
 🟩 8      
-🟩 9      to fest
+🟩 9      to test
 ⬜ 10     
 ⬜ 11     WOW
 ⬜ 12     
@@ -36,24 +36,25 @@ right?
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 testFile.md
 ```markdown
-⬜ 12     
-⬜ 13     removed the lines
-⬜ 14     and wrote something new
-🟩 15     who
-🟩 16     
-🟩 17     
+⬜ 14     testing
+⬜ 15     in a repo
+⬜ 16     
+🟩 17     who
 🟩 18     
-🟩 19     would
+🟩 19     
 🟩 20     
-🟩 21     
+🟩 21     would
 🟩 22     
 🟩 23     
-🟩 24     have
+🟩 24     
 🟩 25     
-🟩 26     
+🟩 26     have
 🟩 27     
 🟩 28     
-🟩 29     thought
+🟩 29     
+🟩 30     
+🟩 31     thought
+⬜ 32     
 ```
 
 <br/>
