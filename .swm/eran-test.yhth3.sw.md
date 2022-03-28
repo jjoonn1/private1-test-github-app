@@ -2,10 +2,10 @@
 id: yhth3
 name: eran test
 file_version: 1.0.2
-app_version: 0.7.6-0
+app_version: 0.7.6-1
 file_blobs:
   testFile.md: 0b7c38ca5046533c1e72c81f339831d72891dc93
-  a.py: c3ebaee229881ec3204064d4abeb61df5798767f
+  a.py: dcf154697bf03d17213be3f017ea2bf8995c1169
   b.py: f611c610dbc0f0910bb4eb72d6eb66ee84389e3b
 ---
 
@@ -37,7 +37,7 @@ second line for python file
 ⬜ 1      # exmaple of main function
 ⬜ 2      def main():
 ⬜ 3      	print("This is first line")
-🟩 4      	print("This Is The Second Line")
+🟩 4      	print("this Is The Second Line")
 ⬜ 5      	print("This is the third line")
 ⬜ 6      
 ⬜ 7      
