@@ -5,7 +5,7 @@ file_version: 1.0.2
 app_version: 0.7.6-1
 file_blobs:
   testFile.md: e7c836472304b8f89ec0c0accfaa1c76414bb7c9
-  a.py: e26006f1af5f580cd076c8ec45a710c709b9f2f4
+  a.py: 0faa28f3085b223a1c2a0e49495f40a5f882eec3
   b.py: e8610f366c7db23de1419e67c29c6a68b5d4d001
 ---
 
@@ -37,7 +37,7 @@ second line for python file
 ⬜ 1      # new a.py file
 ⬜ 2      
 ⬜ 3      def main():
-🟩 4      	z = 5
+🟩 4      	z = 6
 🟩 5       
 ⬜ 6      
 ```
