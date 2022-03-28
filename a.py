@@ -2,6 +2,6 @@
 def main():
 	print("This is first line")
 	print("this Is The Second Line")
-	print("This is the third line")
+	print("this is the third line")
 
 
