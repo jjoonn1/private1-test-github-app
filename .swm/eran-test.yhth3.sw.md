@@ -4,8 +4,8 @@ name: eran test
 file_version: 1.0.2
 app_version: 0.7.6-1
 file_blobs:
-  testFile.md: e7c836472304b8f89ec0c0accfaa1c76414bb7c9
-  a.py: e19dbdabbf0f241763736a43c6d55ffe219901d0
+  testFile.md: 2c829dd94e910f7d48d32c259560c6a957444df8
+  a.py: 334da4c44abd72e15ce574aef8a4bcc4a09f18ee
   b.py: e8610f366c7db23de1419e67c29c6a68b5d4d001
 ---
 
@@ -19,9 +19,8 @@ example
 🟩 13     removed the lines
 🟩 14     and wrote something new
 🟩 15     who
-⬜ 16     
+⬜ 16     clean file
 ⬜ 17     
-⬜ 18     
 ```
 
 <br/>
@@ -37,7 +36,7 @@ second line for python file
 ⬜ 1      # new a.py file
 ⬜ 2      
 ⬜ 3      def main():
-🟩 4         print('WIp)'
+🟩 4         print('WIP)'
 🟩 5       
 ⬜ 6      
 ```
