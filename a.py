@@ -1,6 +1,6 @@
 # new a.py file
 
 def main():
-	z = 6
+   print('WIp)'
  
 
