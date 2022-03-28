@@ -4,7 +4,7 @@ name: This is a test doc
 file_version: 1.0.2
 app_version: 0.7.6-1
 file_blobs:
-  testFile.md: e7c836472304b8f89ec0c0accfaa1c76414bb7c9
+  testFile.md: 2c829dd94e910f7d48d32c259560c6a957444df8
 ---
 
 WoW
@@ -36,25 +36,15 @@ right?
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 testFile.md
 ```markdown
+⬜ 10     
+⬜ 11     WOW
 ⬜ 12     
-⬜ 13     removed the lines
-⬜ 14     and wrote something new
+🟩 13     removed the lines
+🟩 14     and wrote something new
 🟩 15     who
-🟩 16     
-🟩 17     
-🟩 18     
-🟩 19     would
-🟩 20     
-🟩 21     
-🟩 22     
-🟩 23     
-🟩 24     
-🟩 25     have
-🟩 26     
-🟩 27     
-🟩 28     
-🟩 29     
-🟩 30     thought
+🟩 16     clean file
+⬜ 17     
+⬜ 18     
 ```
 
 <br/>
