@@ -2,10 +2,10 @@
 id: xtaz1
 name: eran test2
 file_version: 1.0.2
-app_version: 0.7.6-0
+app_version: 0.7.6-1
 file_blobs:
-  b.py: f611c610dbc0f0910bb4eb72d6eb66ee84389e3b
-  testFile.md: 0b7c38ca5046533c1e72c81f339831d72891dc93
+  b.py: e8610f366c7db23de1419e67c29c6a68b5d4d001
+  testFile.md: e7c836472304b8f89ec0c0accfaa1c76414bb7c9
 ---
 
 this is the if part
@@ -15,10 +15,10 @@ this is the if part
 ⬜ 2      
 ⬜ 3      def foo(a):
 ⬜ 4      	print("This is the function foo")
-🟩 5      	if a > 5:
+🟩 5      	if a > 6:
 🟩 6      		print("a is bigger")
 ⬜ 7      	else:
-⬜ 8      		print("a is smalleR")
+⬜ 8      		print("a is SmalleR")
 ⬜ 9      
 ```
 
