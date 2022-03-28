@@ -1,7 +1,6 @@
-# exmaple of main function
+# new a.py file
+
 def main():
-	print("This is first line")
-	print("this Is The Second Line")
-	print("this is the third line")
+	print('this is main')
 
 
