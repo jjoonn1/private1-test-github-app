@@ -4,8 +4,8 @@ name: eran test
 file_version: 1.0.2
 app_version: 0.7.6-1
 file_blobs:
-  testFile.md: 0b7c38ca5046533c1e72c81f339831d72891dc93
-  a.py: dcf154697bf03d17213be3f017ea2bf8995c1169
+  testFile.md: e34c63d61258b99615959c45d10e58b3497c13ec
+  a.py: af426bc37db0dcc33dbf97be17d65cd82992d76f
   b.py: f611c610dbc0f0910bb4eb72d6eb66ee84389e3b
 ---
 
@@ -34,11 +34,11 @@ second line for python file
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 a.py
 ```python
-⬜ 1      # exmaple of main function
-⬜ 2      def main():
-⬜ 3      	print("This is first line")
-🟩 4      	print("this Is The Second Line")
-⬜ 5      	print("This is the third line")
+⬜ 1      # new a.py file
+⬜ 2      
+⬜ 3      def main():
+🟩 4      	print('this is main')
+⬜ 5      
 ⬜ 6      
 ⬜ 7      
 ```
