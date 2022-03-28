@@ -1,5 +1,6 @@
 # new a.py file
 
 def main():
-	x = x +3 
+	print('HELLO')
+ 
 
