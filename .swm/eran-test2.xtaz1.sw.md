@@ -4,7 +4,7 @@ name: eran test2
 file_version: 1.0.2
 app_version: 0.8.3-0
 file_blobs:
-  b.py: bd7ca8cdc9e6b723295c126a6ce9e651f27fc231
+  b.py: e8610f366c7db23de1419e67c29c6a68b5d4d001
   testFile.md: 2c829dd94e910f7d48d32c259560c6a957444df8
 ---
 
@@ -16,7 +16,7 @@ this is the if part is true
 ⬜ 3      def foo(a):
 ⬜ 4      	print("This is the function foo")
 🟩 5      	if a > 6:
-🟩 6      		print("a is Bigger")
+🟩 6      		print("a is bigger")
 ⬜ 7      	else:
 ⬜ 8      		print("a is SmalleR")
 ⬜ 9      
