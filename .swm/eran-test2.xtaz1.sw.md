@@ -8,7 +8,7 @@ file_blobs:
   testFile.md: 2c829dd94e910f7d48d32c259560c6a957444df8
 ---
 
-this is the if part
+this is the if part is true
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 b.py
 ```python
