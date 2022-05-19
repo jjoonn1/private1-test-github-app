@@ -7,7 +7,7 @@ app_version: 0.8.5-0
 
 Here is a list of guided questions that should make it easier to identify what happened and what we can do better.
 
-## What Happened?
+## What Happened?fff
 
 {Add a short description of what happened during this incident}
 
@@ -17,7 +17,7 @@ Here is a list of guided questions that should make it easier to identify what h
 
 ## Who or What was Impacted?
 
-[Explain and quantify (if possible) the damage caused by this incident, i.e users couldn't perform a certain task during the incident](#text-placeholder-id-82cf)
+{Explain and quantify (if possible) the damage caused by this incident, i.e users couldn't perform a certain task during the incident}
 
 ## What was the Root Cause?
 
@@ -40,10 +40,6 @@ Here is a list of guided questions that should make it easier to identify what h
     *   20YY-MM-DD HH:MM:SS UTC - offending code was deployed
         
     *   20YY-MM-DD HH:MM:SS UTC - ...
-
-<br/>
-
-
 
 <br/>
 
