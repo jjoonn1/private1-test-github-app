@@ -3,9 +3,27 @@ id: dadnv
 name: demo doc for slack <script>hello</script>
 file_version: 1.0.2
 app_version: 0.8.8-0
+file_blobs:
+  fileWithALotOfContent.js: 0bfd1350a70bd9ae53bb896747a52bd91782f971
 ---
 
 This is doc for slack
+
+<br/>
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 fileWithALotOfContent.js
+```javascript
+🟩 1      const { createOAuthAppAuth } = require('@octokit/auth-oauth-app'); // eslint-disable-line @typescript-eslint/no-var-requires
+🟩 2      const cors = require('cors')({ origin: true }); // eslint-disable-line @typescript-eslint/no-var-requires
+🟩 3      import { FieldValue, v1 } from '@google-cloud/firestore';
+🟩 4      import * as functions from 'firebase-functions';
+🟩 5      import { StatusCodes } from 'http-status-codes';
+🟩 6      import fetch from 'node-fetch';
+⬜ 7      
+⬜ 8      import { NOTIFICATION_TYPES } from 'Shared/notifications/consts';
+⬜ 9      import { discoverAndGenerateDocs, discoverDocs, generateDocs, sgdOnGeneratedDocSavedHandler } from './generated-docs';
+```
 
 <br/>
 
