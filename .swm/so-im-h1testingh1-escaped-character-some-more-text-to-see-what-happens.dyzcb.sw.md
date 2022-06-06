@@ -1,6 +1,7 @@
 ---
 id: dyzcb
-name: so & I'm <h1>testing</h1> & "escaped" <> character ",<&>
+name: so & I'm <h1>testing</h1> & "escaped" <> character ",<&> some more text to
+  see what happens
 file_version: 1.0.2
 app_version: 0.8.8-0
 ---
