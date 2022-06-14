@@ -2,7 +2,7 @@
 id: jisfw
 name: ⚙️ How to Add a New User Configuration Value
 file_version: 1.0.2
-app_version: 0.8.9-1
+app_version: 0.8.9-2
 ---
 
 ## Why is This Important?
@@ -21,17 +21,9 @@ We define our configuration values in {add a file or directory, use the "/path" 
 
 <br/>
 
-
-
-<br/>
-
 ## Usage Example
 
 {Add an example of where the configurable value is used in the code}
-
-<br/>
-
-
 
 <br/>
 
@@ -41,7 +33,7 @@ We define our configuration values in {add a file or directory, use the "/path" 
 
 <br/>
 
-
+adding some stuff
 
 <br/>
 
