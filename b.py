@@ -5,7 +5,7 @@ def foo(a):
 	if a > 6:
 		print("a is bigger")
 	else:
-		print("a is SmalleR")
+		print("a is SmadsdslleR")
 
 
 
