@@ -6,7 +6,7 @@ app_version: 0.7.8-0
 file_blobs:
   testFile.md: 2c829dd94e910f7d48d32c259560c6a957444df8
   a.py: e3046eecae07d26804ee7a5fe672353111c04765
-  b.py: e8610f366c7db23de1419e67c29c6a68b5d4d001
+  b.py: 83b68c24f210e725c2f51c9efbbacdc8eb9c54c5
 ---
 
 example
@@ -51,7 +51,7 @@ this is the else part
 ⬜ 5      	if a > 6:
 ⬜ 6      		print("a is bigger")
 🟩 7      	else:
-🟩 8      		print("a is SmalleR")
+🟩 8      		print("a is SmadsdslleR")
 ⬜ 9      
 ⬜ 10     
 ⬜ 11     
