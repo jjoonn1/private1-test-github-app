@@ -1,6 +1,6 @@
 # new a.py file
 
 def main():
-   print('wiP)'
+   print('wibhkbvbvlbP)'
  
 
